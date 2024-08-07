@@ -1,0 +1,373 @@
+{
+	"tribezz" : [
+		
+
+			{
+				"Index" : 0,
+				"State" : "Abia",
+				"Tribes" : ["Igbo"]
+		
+		
+			},
+		
+			{
+				"Index" : 1,
+				"State" : "Adamawa",
+				"Tribes" : [
+					"Babur(Pabir)/Bura",
+					"Bachama","Banso (Panso)","Batta","Baya","Bilei","Bille",
+					"Botlere","Bwatiye","Bwazza","Daba","Daka","Palli","Fulani (Fulbe)",
+					"Ga anda","Gira","Gizigz","Gombi","Gude","Gudu","Gwa (Gurawa)","Gwamba",
+					"Holma","Hona","Ichen","Jibu","Jirai","Kaka","Kambu","Kamwe","Kanakuru (Dera)",
+					"Kanuri","Kilba","Kurdul","Lakka","Lala","Longuda (Lunguda)","Mambilla",
+					"Margi (Marghi)","Maffa","Mbol","Mbula","Muchaila","Mundang","Ngweshe (Ndhang.Ngoshe-Ndhang)",
+					"Njayi","Pire","Shuwa","Sukur","Teme","Tur","Ubbo","Vemgo","Verre","Wagga","Wurbo","Yandang","Yungur"
+		
+				]
+		
+		
+			},
+		
+			{
+				"Index" : 2,
+				"State" : "Akwa Ibom",
+				"Tribes" : [
+					"Anang","Andoni","Eket","Ibeno","Ibibio" ]
+		
+		
+			},
+			{
+				"Index" : 3,
+				"State" : "Anambra",
+				"Tribes" : [
+					"Igbo","Igala","Anioma" ]
+		
+		
+		
+			},
+		
+			{
+				"Index" : 4,
+				"State" : "Bauchi",
+				"Tribes" : ["Angas",
+					"Bambora (Bambarawa)",
+					"Banka (Bankalawa)","Bara (Barawa) ","Barke ","Bele (Belewa) ","Buli",
+					"Burak ","Buta (Butawa)","Chama (Chamawa Fitilai)","Chamo","Dadiya",
+					"Daza (Dere, Derewa)","Deno (Denawa) ","Ouguri ","Duma (Dumawa)","Fulani (Fulbe)","Galambi ",
+					"Geji ","Gera (Gere, Gerawa)","Gingwak ","Gubi (Gubawa) ","Gyem","Hausa","Jaku",
+					"Jara (Jaar Jarawa Jarawa-Dutse)","Jere (Jare, Jera, Jera, Jerawa)","Jimbin (Jimbinawa) ","Jukun"]
+		
+		
+			},
+		
+			{
+				"Index" : 5,
+				"State" : "Bayelsa",
+				"Tribes" : [
+					"Epie","Isoko","Izon (Ijaw)","Urhobo" ]
+		
+		
+			},
+		
+			{
+				"Index" : 6,
+				"State" : "Benue",
+				"Tribes" : [
+					"Akweya-Yachi ","Egede (Igedde) ","Etolu (Etilo)","Idoma","Jukun","Ufia","Utonkong" ]
+		
+		
+			},
+		
+			{
+				"Index" : 7,
+				"State" : "Borno",
+				"Tribes" : ["Babur (Pabir)/Bura",
+					"Baggara Arabs",
+					"Buduma","Bura/Babur (Pabir)","Chibok (Kibaku)","Chinine","Dghwede","Fulani (Fulbe)",
+					"Gamergu-Mulgwa"," Gavako","Gwoza (Waha)"," Hausa","Kanakuru (Dera)","Kanembu"]
+		
+		
+			},
+		
+			{
+				"Index" : 8,
+				"State" : "Cross River",
+				"Tribes" : ["Abayon",
+					"Adim",
+					"Adun","Agbo ","Akaju-Ndem (Akajuk)"," Anyima","Bachere","Bahumono",
+					"Etung","Idoma","Ikom","Iyala (Iyalla)","Ejagbam","Ekajuk","Ekoi"]
+		
+		
+			},
+		
+			{
+				"Index" : 9,
+				"State" : "Delta",
+				"Tribes" : [
+					"Anioma","Igbo","Ika ","Isoko","Isekiri (Itsekiri)","Izon (Ijaw)","Urhobo",
+					"Etung","Idoma","Ikom","Iyala (Iyalla)","Ejagbam","Ekajuk","Ekoi"]
+		
+		
+			},
+			{
+				"Index" : 10,
+				"State" : "Ebonyi",
+				"Tribes" : ["Igbo"]
+		
+		
+			},
+		
+			{
+				"Index" : 11,
+				"State" : "Edo",
+				"Tribes" : [
+					"Anioma","Bini (Edo)","Ebira","Ebu","Esan (Ishan)","Etsako","Etuno",
+					"Igala","Izon (Ijaw)","Uwanno","Iyala (Iyalla)","Ejagbam","Ekajuk","Ekoi"]
+		
+		
+			},
+			{
+				"Index" : 12,
+				"State" : "Ekiti",
+				"Tribes" : ["Yoruba"]
+		
+		
+			},
+			{
+				"Index" : 13,
+				"State" : "Enugu",
+				"Tribes" : ["Igala","Igbo"]
+		
+		
+			},
+		
+			{
+				"Index" : 14,
+				"State" : "FCT",
+				"Tribes" : ["Gwari (Gbagi)","Tiv"]
+		
+		
+			},
+			{
+				"Index" : 15,
+				"State" : "Gombe",
+				"Tribes" : ["Fulani (Fulbe)","Tangale","Tula"]
+		
+		
+			},
+			{
+				"Index" : 16,
+				"State" : "Imo",
+				"Tribes" : ["Igbo"]
+		
+		
+			},
+			{
+				"Index" : 17,
+				"State" : "Jigawa",
+				"Tribes" : ["Auyoka (Sub-Hausa)","Fulani (Fulbe)","Hausa"]
+		
+		
+			},
+			{
+				"Index" : 18,
+				"State" : "Kaduna",
+				"Tribes" : [
+					"Attakar (ataka)","Ayu","Bassa","Bina (Binawa)","Fulani (Fulbe)","Gure","Gwandara",
+					" Gwari (Gbagi)","Gwong (Kagoma)","Ham (Hyam, Jaba, Jabba)","Iyala (Iyalla)",
+					"Hausa","Kadara","Kafanchan","Kagoro","Kaje","Kajuru","Kamaka (Karnukawa)"]
+		
+		
+			},
+			{
+				"Index" : 19,
+				"State" : "Katsina",
+				"Tribes" : ["Fulani (Fulbe)","Hausa"]
+		
+		
+			},
+		
+			{
+				"Index" : 20,
+				"State" : "Kano",
+				"Tribes" : ["Fulani (Fulbe)","Hausa"]
+		
+		
+			},
+		
+			{
+				"Index" : 21,
+				"State" : "Kebbi",
+				"Tribes" : [
+					"Achipa (Achipawa)","Dakarkari","Danda (Dandawa)","Duka (Dukawa)",
+					"Fulani (Fulbe)","Hausa","Kamaku (Karnukawa)","Kambari"]
+		
+		
+			},
+		
+			{
+				"Index" : 22,
+				"State" : "Kogi",
+				"Tribes" : [
+					"Bassa","Bunu","Ebira","Ebu",
+					"Gbedde","Gwari (Gbagi)","Idoma","Igala","Ijumu"]
+		
+		
+			},
+		
+			{
+				"Index" : 23,
+				"State" : "Kwara",
+				"Tribes" : ["Fulani","Baruba (Batonu)","Yoruba"]
+		
+		
+			},
+		
+			{
+				"Index" : 24,
+				"State" : "Lagos",
+				"Tribes" : ["Awori","Egun (Gu)","Yoruba"]
+		
+		
+			},
+		
+			{
+				"Index" : 25,
+				"State" : "Nasarawa",
+				"Tribes" : [
+					"Afo (Eloyi)","Alago","Gade","Gwari (Gbagi)","Hausa"]
+		
+		
+			},
+		
+			{
+				"Index" : 26,
+				"State" : "Niger",
+				"Tribes" : [
+					"Baruba (Batonu)","Bassa","Baushi","Boko (Bussawa, Bargawa)","Dakarkari","Fulani (Fulbe)",
+					"Gade","Gurmana","Gwandara","Gwari (Gbagi)","Hausa","Kadara","Kamaku (Karnukawa)","Kambari"]
+		
+		
+			},
+		
+			{
+				"Index" : 27,
+				"State" : "Ogun",
+				"Tribes" : [
+					"Awori","Egun (Gu)","Yoruba"]
+		
+		
+			},
+		
+			{
+				"Index" : 28,
+				"State" : "Ondo",
+				"Tribes" : [
+					"Ebira","Izon (Ijaw)","Yoruba"]
+		
+		
+			},
+		
+			{
+				"Index" : 29,
+				"State" : "Osun",
+				"Tribes" : ["Yoruba"]
+		
+		
+			},
+		
+			{
+				"Index" : 30,
+				"State" : "Oyo",
+				"Tribes" : ["Yoruba"]
+		
+		
+			},
+		
+			{
+				"Index" : 31,
+				"State" : "Plateau",
+				"Tribes" : ["Afizere",
+					"Amo",
+					"Anaguta","Ankwei","Bada","Bashiri (Bashirawa)","Bassa",
+					"Berom(Birom)","Bokkos","Buji","Burma (Burmawa)","Bwall","Challa","Chip",
+					"Chokobo","Doemak (Dumuk)","Fulani (Fulbe)","Fyam (Fyem)",
+					"Fyer (Fer)","Qanawuri","Geruma (Gerumawa)","Goemai","Gusu","Irigwe","Jere (Jare, Jera, Jera, Jerawa)",
+					"Jidda-Abu","Jukun","Kantana"," Kenern (Koenoem)","Kulere (Kaler)","Kwalla",
+					"Kadung","Kwaro","Kwato","Limono","Mabo","Mada","Mama",
+					"Memyang (Meryan)","Milighili (Mighili)","Montol","Munga (Mupang)","Mupun",
+					"Mushere",
+					"Mwahavul (Mwaghavul)","Ngas (Angas)","Ninzam (Ninzo)","Nokere (Nakere)","Nunku",
+					"Pai","Pyapun (Piapung)","Rindire (Rendre)","Ron","Rukuba","Saya (Sayawa Za ar)",
+					"Shangawa (ShanKadunagau)","Shan-Shan","Sikdi","Sura","Tarok","Tiv","Yergan (Yergum)",
+					"Yuom"]
+		
+		
+			},
+		
+			{
+				"Index" :32,
+				"State" : "Rivers",
+				"Tribes" : ["Abua (Odual)",
+					"Andoni",
+					"Anioma","Bille ","Ebana (Ebani)","Egbema","Ekpeye","Engenni (Ngene)",
+					"Etche","Gokana (Kana)","Ibani","Igbo","Ikwerre","Izon (Ijaw)","Joinkrama",
+					"Kalabari","Ke","Kugbo","Obolo","Ogoni","Ogba",
+					"Okirika","Udekeama","Gingwak ","Gubi (Gubawa) ","Gyem","Hausa","Jaku",
+					"Jara (Jaar Jarawa Jarawa-Dutse)","Jere (Jare, Jera, Jera, Jerawa)","Jimbin (Jimbinawa) ","Jukun"]
+			},
+		
+		
+			{
+				"Index" :33,
+				"State" : "Sokoto",
+				"Tribes" : ["Fulani (Fulbe)","Hausa"]
+		
+		
+			},
+		
+		
+			{
+				"Index" : 34,
+				"State" : "Taraba",
+				"Tribes" : [
+					"Bakulung","Bali","Bambuko","Banda (Bandawa)","Betso (Bete)","Bobua",
+					"Chamba","Chukkol","Dangsa","Diba","Fulani (Fulbe)","Gengle","Gornun (Gmun)",
+					"Gonia","Gwom","Hausa","Jahuna (Jahunawa)","Jero","Jonjo (Jenjo)","Jukun",
+					"Kaba (Kabawa)","Kanuri","Karimjo","Kenton","Kodei",
+					"Kona","Kugama","Kunini","Kuteb","Kutin","Kwanchi","Lama","Lamja","Lau","Mbum",
+					"Mumuye","Munga (Lelau)","Ndoro","Ngweshe (Ndhang.Ngoshe-Ndhang)","Nyandang","Panyam",
+					"Pkanzom","Poll","Potopo","Sakbe","Sate","Shomo","Tarok",
+					"Tigon","Tikar","Tiv","Vommi","Waka",
+					"Wurkun","Yandang","Yott"]
+		
+			},
+		
+		
+			{
+				"Index" : 35,
+				"State" : "Yobe",
+				"Tribes" : ["Affade",
+					"Bura-Pabir",
+					"Bade"," Bole (Bolewa)","Buru","Chibok (Kibaku)","Fulani (Fulbe)","Kanuri",
+					"Karekare (Karaikarai)","Manga (Mangawa)","Ngizim","Shuwa","Hausa"]
+		
+			},
+		
+			{
+				"Index" : 36,
+				"State" : "Zamfara",
+				"Tribes" : ["Fulani (Fulbe)"]
+		
+		
+			}
+		
+		
+		
+		
+		
+		
+	]
+
+	
+}

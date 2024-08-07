@@ -1,0 +1,51 @@
+name: tribe
+description: detail or information about african tribez
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: 
+  get:
+  get_storage:
+  google_fonts:
+  smooth_page_indicator:
+  # carousel_slider:
+
+  readmore:
+  
+
+
+dev_dependencies:
+  flutter_lints:
+
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons:
+flutter_icons:
+    image_path: 'assets/images/tribe.png'
+    android: true
+    ios: true
+
+
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - jsonfile/tribezz.json
+    - jsonfile/ZIPandPOSTALCODE.json
+    - jsonfile/naijaLGA.json
+
+
+

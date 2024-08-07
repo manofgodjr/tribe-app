@@ -1,0 +1,264 @@
+{
+	"Postal_code" :[
+
+			{ 
+				"state": "Abia",
+				"pcode": "440001"
+		
+			},
+
+			{ 
+				"state": "Adamawa",
+				"pcode": "640001"
+		
+			},
+			{ 
+				"state": "Akwa Ibom",
+				"pcode": "520001"
+		
+			},
+			{ 
+				"state": "Anambra",
+				"pcode": "420001"
+		
+			},
+
+			{ 
+				"state": "Bauchi",
+				"pcode": "740001"
+		
+			},
+
+			{ 
+				"state": "Bayelsa",
+				"pcode": "561001"
+		
+			},
+
+			{ 
+				"state": "Benue",
+				"pcode": "970001"
+		
+			},
+
+			{ 
+				"state": "Borno",
+				"pcode": "600001"
+		
+			},
+
+			{ 
+				"state": "Cross River",
+				"pcode": "540001"
+		
+			},
+
+			{ 
+				"state": "Delta",
+				"pcode": "320001"
+		
+			},
+
+			{ 
+				"state": "Ebonyi",
+				"pcode": "840001"
+		
+			},
+
+			{ 
+				"state": "Edo",
+				"pcode": "300001"
+		
+			},
+
+			{ 
+				"state": "Ekiti",
+				"pcode": "360001"
+		
+			},
+
+			{ 
+				"state": "Enugu",
+				"pcode": "400001"
+		
+			},
+
+			{ 
+				"state": "Gombe",
+				"pcode": "760001"
+		
+			},
+
+			{ 
+				"state": "Imo",
+				"pcode": "460001"
+		
+			},
+
+			{ 
+				"state": "Jigawa",
+				"pcode": "720001"
+		
+			},
+
+			{ 
+				"state": "Kaduna",
+				"pcode": "700001"
+		
+			},
+
+			{ 
+				"state": "Kano",
+				"pcode": "800001"
+		
+			},
+
+			{ 
+				"state": "Katsina",
+				"pcode": "820001"
+		
+			},
+
+			{ 
+				"state": "Kebbi",
+				"pcode": "860001"
+		
+			},
+
+			{ 
+				"state": "Kogi",
+				"pcode": "260001"
+		
+			},
+
+			{ 
+				"state": "Kwara",
+				"pcode": "240001"
+		
+			},
+
+			{ 
+				"state": "Lagos",
+				"pcode": "100001"
+		
+			},
+
+			{ 
+				"state": "Nasarawa",
+				"pcode": "962001"
+		
+			},
+
+			{ 
+				"state": "Niger",
+				"pcode": "920001"
+		
+			},
+
+			{ 
+				"state": "Ogun",
+				"pcode": "110001"
+		
+			},
+
+			{ 
+				"state": "Ondo",
+				"pcode": "340001"
+		
+			},
+
+			{ 
+				"state": "Osun",
+				"pcode": "230001"
+		
+			},
+
+			{ 
+				"state": "Oyo",
+				"pcode": "200001"
+		
+			},
+
+			{ 
+				"state": "Plateau",
+				"pcode": "930001"
+		
+			},
+
+			{ 
+				"state": "Rivers",
+				"pcode": "500001"
+		
+			},
+
+			{ 
+				"state": "Sokoto",
+				"pcode": "840001"
+		
+			},
+
+			{ 
+				"state": "Taraba",
+				"pcode": "660001"
+		
+			},
+
+			{ 
+				"state": "Yobe",
+				"pcode": "320001"
+		
+			},
+
+			{ 
+				"state": "Zamfara",
+				"pcode": "860001"
+		
+			},
+
+			{ 
+				"state": "FCT Abuja",
+				"pcode": "900001"
+		
+			}
+		],
+	"geo_region": 
+		[
+			{
+				"region_name" : "North Central",
+				"region_states" : ["Abuja", "Benue", "Kogi", "Kwara", 
+					"Nassarawa", "Niger", "Plateau"] 
+			},
+
+			{
+				"region_name" : "North East",
+				"region_states" : ["Adamawa", "Bauchi", "Borno", "Gombe", 
+					"Taraba", "Yobe"] 
+			},
+
+			{
+				"region_name" : "North West",
+				"region_states" : ["Jigawa", "Kaduna", "Kano", "Katsina", 
+					"Kebbi", "Sokoto", "Zamfara"] 
+			},
+
+			{
+				"region_name" : "South East",
+				"region_states" : ["Abia", "Anambra", "Ebonyi", "Enugu", 
+					"Imo"] 
+			},
+
+			{
+				"region_name" : "South South",
+				"region_states" : ["Akwa ibom", "Bayelsa", "Cross River", 					"Delta", "Edo", "Rivers"] 
+			},
+
+			{
+				"region_name" : "South West",
+				"region_states" : ["Ekiti", "Ogun", "Ondo", "Lagos", 
+					"Osun", "Oyo"] 
+			}
+
+		]
+
+
+}
